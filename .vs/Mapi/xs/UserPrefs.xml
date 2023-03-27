@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E2C0858C-7EBC-4863-8B83-5B30ABF92E76}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mapi/appsettings.json">
+    <Files>
+      <File FileName="Mapi/MauiProgram.cs" Line="16" Column="47" />
+      <File FileName="Mapi/ViewModel/MainViewModel.cs" Line="92" Column="67" />
+      <File FileName="Mapi/MainPage.xaml" Line="12" Column="30" />
+      <File FileName="Mapi/Services/GoogleLocation/GoogleLocationService.cs" Line="23" Column="1" />
+      <File FileName="Mapi/Pages/SelectedRoutePage.xaml" Line="8" Column="29" />
+      <File FileName="Mapi/Models/Google/PlaceApiResult.cs" Line="79" Column="2" />
+      <File FileName="Mapi/Pages/SelectedRoutePage.xaml.cs" Line="5" Column="55" />
+      <File FileName="Mapi/Mapi.csproj" Line="15" Column="26" />
+      <File FileName="Mapi/Platforms/iOS/Info.plist" />
+      <File FileName="Mapi/Platforms/iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Mapi/appsettings.json" Line="5" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mapi" expanded="True">
+            <Node name="Mapi" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mapi PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-001221E2222B402E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
